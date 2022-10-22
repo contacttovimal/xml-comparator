@@ -1,0 +1,25 @@
+<employees>
+    <employee>
+        <id>1002</id>
+        <name>May</name>
+        <department>Admin</department>
+        <phone>2200400</phone>
+    </employee>
+</employees>
+<employees>
+    <employee>
+        <id>1000</id>
+        <name>Josh</name>
+        <department>Operations</department>
+        <phone>2200401</phone>
+    </employee>
+</employees>
+
+<employees>
+<employee>
+    <id>1001</id>
+    <name>John</name>
+    <department>IT</department>
+    <phone>2200398</phone>
+</employee>
+</employees>
